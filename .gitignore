@@ -1,0 +1,13 @@
+# LTspice files
+*.log
+*.raw
+
+# Word temporary files
+~$*.docx
+
+# AutoCAD backup files
+*.bak
+
+# Drawio templates 
+*.bkp
+*.drawio
