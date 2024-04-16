@@ -4,6 +4,7 @@
 
 # Word temporary files
 ~$*.docx
+~*.docx
 
 # AutoCAD backup files
 *.bak
