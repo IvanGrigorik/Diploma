@@ -2,9 +2,11 @@
 *.log
 *.raw
 
-# Word temporary files
-~$*.docx
+# Office temporary files
 ~*.docx
+~*.doc
+~*.xlsx
+~*.xls
 
 # AutoCAD backup files
 *.bak
